@@ -15,6 +15,7 @@
     </teiHeader>
     <text>
         <body>
+            <head>Personnages</head>
             <castList>
                 <castItem>
                     <role xml:id="torquatus">TORQUATUS</role>
